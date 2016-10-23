@@ -6,7 +6,7 @@ Battery lasted 5 hrs 30 min w/no sleep mode implemented
 
 */
 
-
+//Change the numbers here to match the PIN number you use on your Arduino 
 #define LED_A 0
 #define LED_B 2
 #define LED_C 1
