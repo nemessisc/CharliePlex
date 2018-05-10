@@ -9,7 +9,7 @@ Then  from Digikey Electronics I ordered some SMD components:
 *  0805 resistors 
 * coin battery holder  
 
-** The Build **
+**The Build**
 
 Wired 3 LEDs running on an Attiny85 board (Gemma) from Adafruit for power tests. 
 The Arduino sketch can be modified and work with an Arduino Uno (as I have tested).
@@ -18,3 +18,5 @@ Used a breakout board to solder the fresh attiny85 to it in order to burn the ar
 Reflowed LEDS, resistors to the PCB along with the attiny85 with the freshly installed Arduino code 
 Added the battery tested connections
  Finished!
+ 
+ [!(./pcb.png)]
