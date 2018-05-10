@@ -19,4 +19,5 @@ Reflowed LEDS, resistors to the PCB along with the attiny85 with the freshly ins
 Added the battery tested connections
  Finished!
  
- [!(./pcb.png)]
+
+![PCB BOARD](./pcb.png)
