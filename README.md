@@ -20,4 +20,4 @@ Added the battery tested connections
  Finished!
  
 
-![pcb](./pcb.png)
+![pcb](./pcb.PNG)
